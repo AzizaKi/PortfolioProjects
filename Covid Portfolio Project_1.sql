@@ -1,3 +1,9 @@
+--The following queries were made analyzing data about Covid-19 cases, vaccinations, and deaths from 2020 and 2021 
+
+
+
+
+
 Select * 
 From portfolioproject..coviddeaths
 where continent is not null
